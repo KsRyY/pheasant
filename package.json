@@ -1,0 +1,39 @@
+{
+  "name": "root",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {
+    "eslint-config-prettier": "^6.10.0",
+    "eslint-config-xo-react": "^0.23.0",
+    "eslint-plugin-prettier": "^3.1.2",
+    "eslint-plugin-react": "^7.19.0",
+    "eslint-plugin-react-hooks": "^2.5.1",
+    "husky": "^4.2.3",
+    "lint-staged": "^10.0.8",
+    "prettier": "^2.0.1",
+    "xo": "^0.28.0"
+  },
+  "workspaces": [
+    "client",
+    "server"
+  ],
+  "lint-staged": {
+    "*.[js,jsx]": [
+      "xo --fix"
+    ],
+    "*.[json,yaml,md]": [
+      "prettier --write"
+    ]
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "xo": {
+    "extends": [
+      "rem",
+      "xo-react"
+    ]
+  }
+}

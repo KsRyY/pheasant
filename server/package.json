@@ -1,0 +1,15 @@
+{
+  "name": "pheasant-server",
+  "version": "1.0.0",
+  "description": "The backend server of Pheasant, an online message board application.",
+  "main": "index.js",
+  "repository": "https://github.com/KsRyY/pheasant",
+  "author": "KsRyY",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "apollo-server": "^2.11.0",
+    "graphql": "^14.6.0"
+  },
+  "xo": false
+}
