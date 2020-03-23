@@ -3838,11 +3838,6 @@ execa@^3.4.0:
     signal-exit "^3.0.2"
     strip-final-newline "^2.0.0"
 
-existy@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.npm.taobao.org/existy/download/existy-1.0.1.tgz#31ae2a103e658c001aed68f09cf3468dcc6d81e5"
-  integrity sha1-Ma4qED5ljAAa7WjwnPNGjcxtgeU=
-
 expand-brackets@^2.1.4:
   version "2.1.4"
   resolved "https://registry.npm.taobao.org/expand-brackets/download/expand-brackets-2.1.4.tgz#b77735e315ce30f6b6eff0f83b04151a22449622"
@@ -5692,16 +5687,6 @@ lcid@^2.0.0:
   dependencies:
     invert-kv "^2.0.0"
 
-level-auto-index@2.0.0:
-  version "2.0.0"
-  resolved "https://registry.npm.taobao.org/level-auto-index/download/level-auto-index-2.0.0.tgz#d849be1c957de93e7dfce4224e92dd70b4d17840"
-  integrity sha1-2Em+HJV96T59/OQiTpLdcLTReEA=
-  dependencies:
-    existy "^1.0.1"
-    level-hookdown "^3.0.0"
-    readable-stream "^3.4.0"
-    xtend "^4.0.2"
-
 level-codec@^9.0.0:
   version "9.0.1"
   resolved "https://registry.npm.taobao.org/level-codec/download/level-codec-9.0.1.tgz#042f4aa85e56d4328ace368c950811ba802b7247"
@@ -5718,16 +5703,6 @@ level-errors@^2.0.0, level-errors@~2.0.0:
   integrity sha1-ITKmd79OZ5zgKfUXwvF0MoAMBcg=
   dependencies:
     errno "~0.1.1"
-
-level-hookdown@^3.0.0:
-  version "3.1.2"
-  resolved "https://registry.npm.taobao.org/level-hookdown/download/level-hookdown-3.1.2.tgz#78d21a8a05f510cb7639535317873fad98489c86"
-  integrity sha1-eNIaigX1EMt2OVNTF4c/rZhInIY=
-  dependencies:
-    run-parallel "^1.1.9"
-    run-parallel-limit "^1.0.5"
-    run-series "^1.1.8"
-    xtend "^4.0.2"
 
 level-iterator-stream@~4.0.0:
   version "4.0.2"
@@ -8469,27 +8444,12 @@ run-async@^2.4.0:
   dependencies:
     is-promise "^2.1.0"
 
-run-parallel-limit@^1.0.5:
-  version "1.0.5"
-  resolved "https://registry.npm.taobao.org/run-parallel-limit/download/run-parallel-limit-1.0.5.tgz#c29a4fd17b4df358cb52a8a697811a63c984f1b7"
-  integrity sha1-wppP0XtN81jLUqiml4EaY8mE8bc=
-
-run-parallel@^1.1.9:
-  version "1.1.9"
-  resolved "https://registry.npm.taobao.org/run-parallel/download/run-parallel-1.1.9.tgz#c9dd3a7cf9f4b2c4b6244e173a6ed866e61dd679"
-  integrity sha1-yd06fPn0ssS2JE4XOm7YZuYd1nk=
-
 run-queue@^1.0.0, run-queue@^1.0.3:
   version "1.0.3"
   resolved "https://registry.npm.taobao.org/run-queue/download/run-queue-1.0.3.tgz#e848396f057d223f24386924618e25694161ec47"
   integrity sha1-6Eg5bwV9Ij8kOGkkYY4laUFh7Ec=
   dependencies:
     aproba "^1.1.1"
-
-run-series@^1.1.8:
-  version "1.1.8"
-  resolved "https://registry.npm.taobao.org/run-series/download/run-series-1.1.8.tgz#2c4558f49221e01cd6371ff4e0a1e203e460fc36"
-  integrity sha1-LEVY9JIh4BzWNx/04KHiA+Rg/DY=
 
 rxjs@^6.3.3, rxjs@^6.5.3:
   version "6.5.4"
