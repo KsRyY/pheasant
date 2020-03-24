@@ -16,7 +16,7 @@
   },
   "workspaces": [
     "client",
-    "server"
+    "middleware"
   ],
   "lint-staged": {
     "*.[js,jsx]": [
