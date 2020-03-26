@@ -5813,10 +5813,10 @@ lines-and-columns@^1.1.6:
   resolved "https://registry.npm.taobao.org/lines-and-columns/download/lines-and-columns-1.1.6.tgz#1c00c743b433cd0a4e80758f7b64a57440d9ff00"
   integrity sha1-HADHQ7QzzQpOgHWPe2SldEDZ/wA=
 
-lint-staged@10.0.8:
-  version "10.0.8"
-  resolved "https://registry.yarnpkg.com/lint-staged/-/lint-staged-10.0.8.tgz#0f7849cdc336061f25f5d4fcbcfa385701ff4739"
-  integrity sha512-Oa9eS4DJqvQMVdywXfEor6F4vP+21fPHF8LUXgBbVWUSWBddjqsvO6Bv1LwMChmgQZZqwUvgJSHlu8HFHAPZmA==
+lint-staged@10.0.9:
+  version "10.0.9"
+  resolved "https://registry.npm.taobao.org/lint-staged/download/lint-staged-10.0.9.tgz?cache=0&sync_timestamp=1585027006228&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Flint-staged%2Fdownload%2Flint-staged-10.0.9.tgz#185aabb2432e9467c84add306c990f1c20da3cdb"
+  integrity sha1-GFqrskMulGfISt0wbJkPHCDaPNs=
   dependencies:
     chalk "^3.0.0"
     commander "^4.0.1"
@@ -7747,10 +7747,10 @@ prettier-linter-helpers@^1.0.0:
   dependencies:
     fast-diff "^1.1.2"
 
-prettier@2.0.1:
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.0.1.tgz#3f00ac71263be34684b2b2c8d7e7f63737592dac"
-  integrity sha512-piXGBcY1zoFOG0MvHpNE5reAGseLmaCRifQ/fmfF49BcYkInEs/naD/unxGNAeOKFA5+JxVrPyMvMlpzcd20UA==
+prettier@2.0.2:
+  version "2.0.2"
+  resolved "https://registry.npm.taobao.org/prettier/download/prettier-2.0.2.tgz?cache=0&sync_timestamp=1585003048684&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fprettier%2Fdownload%2Fprettier-2.0.2.tgz#1ba8f3eb92231e769b7fcd7cb73ae1b6b74ade08"
+  integrity sha1-G6jz65IjHnabf818tzrhtrdK3gg=
 
 prettier@^1.15.2, prettier@^1.18.2:
   version "1.19.1"
@@ -10244,10 +10244,10 @@ xdg-basedir@^4.0.0:
   resolved "https://registry.npm.taobao.org/xdg-basedir/download/xdg-basedir-4.0.0.tgz#4bc8d9984403696225ef83a1573cbbcb4e79db13"
   integrity sha1-S8jZmEQDaWIl74OhVzy7y0552xM=
 
-xo@0.28.0:
-  version "0.28.0"
-  resolved "https://registry.yarnpkg.com/xo/-/xo-0.28.0.tgz#8dc9d2efff505f03c4068121aa49e543c14a71ac"
-  integrity sha512-Ilen8cwO6KyCUmCIwBDnMRHArIm6jOfJViz6mwD5t63AsQC+xsmb2Vvvp0mkKCEzeY6J+tKVK+4mYGpqSYYKPA==
+xo@0.28.1:
+  version "0.28.1"
+  resolved "https://registry.npm.taobao.org/xo/download/xo-0.28.1.tgz?cache=0&sync_timestamp=1585225551383&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fxo%2Fdownload%2Fxo-0.28.1.tgz#90284169f31972728b5821878b4e0368ed9e6671"
+  integrity sha1-kChBafMZcnKLWCGHi04DaO2eZnE=
   dependencies:
     "@typescript-eslint/eslint-plugin" "^2.23.0"
     "@typescript-eslint/parser" "^2.23.0"
