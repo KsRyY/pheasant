@@ -10244,10 +10244,10 @@ xdg-basedir@^4.0.0:
   resolved "https://registry.npm.taobao.org/xdg-basedir/download/xdg-basedir-4.0.0.tgz#4bc8d9984403696225ef83a1573cbbcb4e79db13"
   integrity sha1-S8jZmEQDaWIl74OhVzy7y0552xM=
 
-xo@0.28.1:
-  version "0.28.1"
-  resolved "https://registry.npm.taobao.org/xo/download/xo-0.28.1.tgz?cache=0&sync_timestamp=1585225551383&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fxo%2Fdownload%2Fxo-0.28.1.tgz#90284169f31972728b5821878b4e0368ed9e6671"
-  integrity sha1-kChBafMZcnKLWCGHi04DaO2eZnE=
+xo@0.28.2:
+  version "0.28.2"
+  resolved "https://registry.npm.taobao.org/xo/download/xo-0.28.2.tgz#78a5d5f15b57a3478a93f1c4633934fb33548300"
+  integrity sha1-eKXV8VtXo0eKk/HEYzk0+zNUgwA=
   dependencies:
     "@typescript-eslint/eslint-plugin" "^2.23.0"
     "@typescript-eslint/parser" "^2.23.0"
