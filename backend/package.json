@@ -1,5 +1,5 @@
 {
-  "name": "pheasant-server-middleware",
+  "name": "pheasant-server-backend",
   "version": "1.0.0",
   "description": "The backend server of Pheasant, an online message board application.",
   "main": "index.js",
