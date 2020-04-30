@@ -15,7 +15,7 @@
   },
   "xo": false,
   "devDependencies": {
-    "node-sass": "4.13.1",
+    "node-sass": "4.14.0",
     "poi": "12.8.0",
     "sass-loader": "8.0.2",
     "yaml-loader": "0.6.0"
