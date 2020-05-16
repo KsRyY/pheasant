@@ -1,0 +1,16 @@
+{
+  "name": "pheasant-server",
+  "version": "1.0.0",
+  "description": "The Koa server implementation of Pheasant, with React SSR support",
+  "main": "index.js",
+  "repository": "https://github.com/KsRyY/pheasant.git",
+  "author": "Andy Chen",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "koa": "^2.11.0",
+    "koa-helmet": "^5.2.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
