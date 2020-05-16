@@ -10,7 +10,7 @@
     "@curi/react-dom": "^2.0.2",
     "@curi/router": "^2.1.0",
     "@hickory/browser": "^2.1.0",
-    "@zeit-ui/react": "^1.5.0-rc.2",
+    "@zeit-ui/react": "^1.5.0-rc.3",
     "crypto-js": "4.0.0",
     "react": "16.13.1",
     "react-dom": "16.13.1",
