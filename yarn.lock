@@ -915,22 +915,30 @@
     "@curi/types" "^2.0.1"
     "@hickory/root" "^2.1.0"
 
-"@curi/react-dom@^2.0.2":
+"@curi/interactions@^2.0.2":
   version "2.0.2"
-  resolved "https://registry.npm.taobao.org/@curi/react-dom/download/@curi/react-dom-2.0.2.tgz#4aa215a7e9b641df50ad960d8cd6e52274cd8a54"
-  integrity sha1-SqIVp+m2Qd9QrZYNjNblInTNilQ=
+  resolved "https://registry.npm.taobao.org/@curi/interactions/download/@curi/interactions-2.0.2.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40curi%2Finteractions%2Fdownload%2F%40curi%2Finteractions-2.0.2.tgz#55cfa93681c74583d7c15f23165431d0f58261c9"
+  integrity sha1-Vc+pNoHHRYPXwV8jFlQx0PWCYck=
   dependencies:
-    "@curi/react-universal" "^2.0.1"
-    "@curi/types" "^2.0.1"
+    "@curi/types" "^2.0.2"
+    "@hickory/root" "^2.1.0"
+
+"@curi/react-dom@^2.0.3":
+  version "2.0.3"
+  resolved "https://registry.npm.taobao.org/@curi/react-dom/download/@curi/react-dom-2.0.3.tgz#25422f3795d57eed88caa0eb25dcdb124d2f36fb"
+  integrity sha1-JUIvN5XVfu2IyqDrJdzbEk0vNvs=
+  dependencies:
+    "@curi/react-universal" "^2.0.2"
+    "@curi/types" "^2.0.2"
     "@types/react" "^16.7.18"
 
-"@curi/react-universal@^2.0.1":
-  version "2.0.1"
-  resolved "https://registry.npm.taobao.org/@curi/react-universal/download/@curi/react-universal-2.0.1.tgz#6e7f1c1aca3291e9ca3af1ad9d7c15e2b3aed2ea"
-  integrity sha1-bn8cGsoykenKOvGtnXwV4rOu0uo=
+"@curi/react-universal@^2.0.2":
+  version "2.0.2"
+  resolved "https://registry.npm.taobao.org/@curi/react-universal/download/@curi/react-universal-2.0.2.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40curi%2Freact-universal%2Fdownload%2F%40curi%2Freact-universal-2.0.2.tgz#1f4b6b273f8c55f9d1eaea31b80af34a25c069af"
+  integrity sha1-H0trJz+MVfnR6uoxuArzSiXAaa8=
   dependencies:
-    "@curi/interactions" "^2.0.1"
-    "@curi/types" "^2.0.1"
+    "@curi/interactions" "^2.0.2"
+    "@curi/types" "^2.0.2"
     "@hickory/root" "^2.1.0"
     "@types/react" "^16.7.18"
 
@@ -944,10 +952,10 @@
     "@hickory/root" "^2.1.0"
     path-to-regexp "^2.1.0"
 
-"@curi/types@^2.0.1":
-  version "2.0.1"
-  resolved "https://registry.npm.taobao.org/@curi/types/download/@curi/types-2.0.1.tgz#4b88f56f298dd52261433f2dfb449121677ae767"
-  integrity sha1-S4j1bymN1SJhQz8t+0SRIWd652c=
+"@curi/types@^2.0.1", "@curi/types@^2.0.2":
+  version "2.0.2"
+  resolved "https://registry.npm.taobao.org/@curi/types/download/@curi/types-2.0.2.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40curi%2Ftypes%2Fdownload%2F%40curi%2Ftypes-2.0.2.tgz#403ee4d9aac668c7f9d971f7ad0bd2bfc12e1a12"
+  integrity sha1-QD7k2arGaMf52XH3rQvSv8EuGhI=
   dependencies:
     "@hickory/root" "^2.1.0"
     path-to-regexp "^2.1.0"
