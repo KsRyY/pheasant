@@ -11,7 +11,7 @@
     "eslint-plugin-react-hooks": "3.0.0",
     "husky": "4.2.5",
     "lint-staged": "10.2.1",
-    "prettier": "2.0.4",
+    "prettier": "2.1.0",
     "xo": "0.30.0"
   },
   "workspaces": [
