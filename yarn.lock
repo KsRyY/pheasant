@@ -1403,10 +1403,10 @@
   resolved "https://registry.npm.taobao.org/@xtuc/long/download/@xtuc/long-4.2.2.tgz#d291c6a4e97989b5c61d9acf396ae4fe133a718d"
   integrity sha1-0pHGpOl5ibXGHZrPOWrk/hM6cY0=
 
-"@zeit-ui/react@^1.5.0":
-  version "1.5.0"
-  resolved "https://registry.npm.taobao.org/@zeit-ui/react/download/@zeit-ui/react-1.5.0.tgz#078e1a3b5188d01644e9985312346029177775bc"
-  integrity sha1-B44aO1GI0BZE6ZhTEjRgKRd3dbw=
+"@zeit-ui/react@^1.8.1":
+  version "1.8.1"
+  resolved "https://registry.npm.taobao.org/@zeit-ui/react/download/@zeit-ui/react-1.8.1.tgz#dbb31565c1e8f6a87646d2c7e521c2fbc56a3008"
+  integrity sha1-27MVZcHo9qh2RtLH5SHC+8VqMAg=
   dependencies:
     styled-jsx "^3.2.5"
 
