@@ -16,7 +16,7 @@
     "react-dom": "16.13.1",
     "react-is": "^16.13.1",
     "react-portal": "4.2.1",
-    "styled-components": "5.1.0"
+    "styled-components": "5.2.0"
   },
   "xo": false,
   "devDependencies": {
