@@ -907,12 +907,12 @@
     lodash "^4.17.13"
     to-fast-properties "^2.0.0"
 
-"@curi/interactions@^2.0.1":
-  version "2.0.1"
-  resolved "https://registry.npm.taobao.org/@curi/interactions/download/@curi/interactions-2.0.1.tgz#9acf9431f2d000685a6fd03948f8589055c163f9"
-  integrity sha1-ms+UMfLQAGhab9A5SPhYkFXBY/k=
+"@curi/interactions@^2.0.1", "@curi/interactions@^2.0.3":
+  version "2.0.3"
+  resolved "https://registry.npm.taobao.org/@curi/interactions/download/@curi/interactions-2.0.3.tgz#78db5ca8158066e87925ff1e7e8168311b3919eb"
+  integrity sha1-eNtcqBWAZuh5Jf8efoFoMRs5Ges=
   dependencies:
-    "@curi/types" "^2.0.1"
+    "@curi/types" "^2.0.2"
     "@hickory/root" "^2.1.0"
 
 "@curi/react-dom@^2.0.2":
@@ -934,20 +934,20 @@
     "@hickory/root" "^2.1.0"
     "@types/react" "^16.7.18"
 
-"@curi/router@^2.1.0":
-  version "2.1.0"
-  resolved "https://registry.npm.taobao.org/@curi/router/download/@curi/router-2.1.0.tgz#53b3f7cd27a94d27ea97e9daa37a804a81574134"
-  integrity sha1-U7P3zSepTSfql+nao3qASoFXQTQ=
+"@curi/router@^2.1.2":
+  version "2.1.2"
+  resolved "https://registry.npm.taobao.org/@curi/router/download/@curi/router-2.1.2.tgz#b7d5c23c7c8ea8993a72d82281c19aa68ecbe175"
+  integrity sha1-t9XCPHyOqJk6ctgigcGapo7L4XU=
   dependencies:
-    "@curi/interactions" "^2.0.1"
-    "@curi/types" "^2.0.1"
+    "@curi/interactions" "^2.0.3"
+    "@curi/types" "^2.0.2"
     "@hickory/root" "^2.1.0"
     path-to-regexp "^2.1.0"
 
-"@curi/types@^2.0.1":
-  version "2.0.1"
-  resolved "https://registry.npm.taobao.org/@curi/types/download/@curi/types-2.0.1.tgz#4b88f56f298dd52261433f2dfb449121677ae767"
-  integrity sha1-S4j1bymN1SJhQz8t+0SRIWd652c=
+"@curi/types@^2.0.1", "@curi/types@^2.0.2":
+  version "2.0.2"
+  resolved "https://registry.npm.taobao.org/@curi/types/download/@curi/types-2.0.2.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40curi%2Ftypes%2Fdownload%2F%40curi%2Ftypes-2.0.2.tgz#403ee4d9aac668c7f9d971f7ad0bd2bfc12e1a12"
+  integrity sha1-QD7k2arGaMf52XH3rQvSv8EuGhI=
   dependencies:
     "@hickory/root" "^2.1.0"
     path-to-regexp "^2.1.0"

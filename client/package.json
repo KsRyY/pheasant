@@ -8,7 +8,7 @@
   "private": true,
   "dependencies": {
     "@curi/react-dom": "^2.0.2",
-    "@curi/router": "^2.1.0",
+    "@curi/router": "^2.1.2",
     "@hickory/browser": "^2.1.0",
     "@zeit-ui/react": "^1.5.0",
     "crypto-js": "4.0.0",
