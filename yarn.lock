@@ -972,10 +972,10 @@
     lodash "^4.17.19"
     to-fast-properties "^2.0.0"
 
-"@egoist/snackbar@^1.2.2":
+"@egoist/snackbar@1.5.1":
   version "1.5.1"
-  resolved "https://registry.npm.taobao.org/@egoist/snackbar/download/@egoist/snackbar-1.5.1.tgz#cc25118c01d4e92c63d108c29bc06c7d601877e8"
-  integrity sha1-zCURjAHU6Sxj0QjCm8BsfWAYd+g=
+  resolved "https://registry.yarnpkg.com/@egoist/snackbar/-/snackbar-1.5.1.tgz#cc25118c01d4e92c63d108c29bc06c7d601877e8"
+  integrity sha512-hIbfxDw54noQhguFkCpyHTO2hZ7mDmovN/1rrMzGmtNEucEq0AMr5PBh5JukBl4wcDa8FVs6lILOMLgp0WHUZQ==
 
 "@intervolga/optimize-cssnano-plugin@^1.0.6":
   version "1.0.6"
@@ -1040,10 +1040,10 @@
     lodash "^4.17.11"
     posthtml "^0.13.0"
 
-"@poi/plugin-pwa@^12.0.2":
+"@poi/plugin-pwa@12.0.3":
   version "12.0.3"
-  resolved "https://registry.npm.taobao.org/@poi/plugin-pwa/download/@poi/plugin-pwa-12.0.3.tgz#70b61615d3b9c1227545f01678cd770e3b556e9a"
-  integrity sha1-cLYWFdO5wSJ1RfAWeM13DjtVbpo=
+  resolved "https://registry.yarnpkg.com/@poi/plugin-pwa/-/plugin-pwa-12.0.3.tgz#70b61615d3b9c1227545f01678cd770e3b556e9a"
+  integrity sha512-h/9FQYJsKty6LWkRRmkgUBEo/vQt68bL4b0jZwnPeHmhaUIYJ/pi9XtR4nxqmjYWhpG2EuibIYigATkZVbuJ5Q==
   dependencies:
     normalize-path "^3.0.0"
     pwa-html-webpack-plugin "^12.0.0"
@@ -7021,10 +7021,10 @@ plur@^3.0.1:
   dependencies:
     irregular-plurals "^2.0.0"
 
-poi@^12.4.2:
+poi@12.10.2:
   version "12.10.2"
-  resolved "https://registry.npm.taobao.org/poi/download/poi-12.10.2.tgz#7cdc0f80596bf24bd6a9fc866bc811b68a683726"
-  integrity sha1-fNwPgFlr8kvWqfyGa8gRtopoNyY=
+  resolved "https://registry.yarnpkg.com/poi/-/poi-12.10.2.tgz#7cdc0f80596bf24bd6a9fc866bc811b68a683726"
+  integrity sha512-iTr5hTVC/Lvm/69l51dY6vW8sTBq84b5FjR8ToOjGIcZPXL8nnFF4y0/416Kp3ogsqZXOSZb3a1KFvPfbVroVQ==
   dependencies:
     "@babel/core" "^7.1.6"
     "@babel/plugin-proposal-class-properties" "^7.1.0"
@@ -9877,10 +9877,10 @@ workbox-webpack-plugin@^3.6.3:
     json-stable-stringify "^1.0.1"
     workbox-build "^3.6.3"
 
-workbox-window@^4.3.1:
+workbox-window@4.3.1:
   version "4.3.1"
-  resolved "https://registry.npm.taobao.org/workbox-window/download/workbox-window-4.3.1.tgz?cache=0&sync_timestamp=1599668329660&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fworkbox-window%2Fdownload%2Fworkbox-window-4.3.1.tgz#ee6051bf10f06afa5483c9b8dfa0531994ede0f3"
-  integrity sha1-7mBRvxDwavpUg8m436BTGZTt4PM=
+  resolved "https://registry.yarnpkg.com/workbox-window/-/workbox-window-4.3.1.tgz#ee6051bf10f06afa5483c9b8dfa0531994ede0f3"
+  integrity sha512-C5gWKh6I58w3GeSc0wp2Ne+rqVw8qwcmZnQGpjiek8A2wpbxSJb1FdCoQVO+jDJs35bFgo/WETgl1fqgsxN0Hg==
   dependencies:
     workbox-core "^4.3.1"
 
