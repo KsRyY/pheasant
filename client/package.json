@@ -1,28 +1,15 @@
 {
-  "name": "pheasant-client",
-  "version": "1.0.0",
-  "description": "The frontend client of Pheasant, an online message board application.",
-  "repository": "https://github.com/KsRyY/pheasant",
-  "author": "KsRyY",
-  "license": "MIT",
+  "name": "client",
   "private": true,
-  "dependencies": {
-    "@curi/react-dom": "^2.0.2",
-    "@curi/router": "^2.1.0",
-    "@hickory/browser": "^2.1.0",
-    "@zeit-ui/react": "^1.5.0",
-    "crypto-js": "4.0.0",
-    "react": "16.13.1",
-    "react-dom": "16.13.1",
-    "react-is": "^16.13.1",
-    "react-portal": "4.2.1",
-    "styled-components": "5.1.0"
+  "scripts": {
+    "build": "poi --prod",
+    "dev": "poi --serve"
   },
-  "xo": false,
   "devDependencies": {
-    "node-sass": "4.14.0",
-    "poi": "12.8.0",
-    "sass-loader": "8.0.2",
-    "yaml-loader": "0.6.0"
-  }
+    "poi": "^12.4.2",
+    "@poi/plugin-pwa": "^12.0.2",
+    "workbox-window": "^4.3.1",
+    "@egoist/snackbar": "^1.2.2"
+  },
+  "version": "0.0.0"
 }
