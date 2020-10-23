@@ -6,10 +6,10 @@
     "dev": "poi --serve"
   },
   "devDependencies": {
-    "poi": "^12.4.2",
-    "@poi/plugin-pwa": "^12.0.2",
-    "workbox-window": "^4.3.1",
-    "@egoist/snackbar": "^1.2.2"
+    "poi": "12.10.2",
+    "@poi/plugin-pwa": "12.0.3",
+    "workbox-window": "4.3.1",
+    "@egoist/snackbar": "1.5.1"
   },
   "version": "0.0.0"
 }
