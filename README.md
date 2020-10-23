@@ -1,3 +1,5 @@
+> ***Warning:*** This is the working branch of pheasant and may contain features that are a work in progress. Switch to master branch to view latest stable version
+
 # Pheasant
 
 Pheasanet is an online message board application, but it is not limited to that. You can use it as your notebook, or your blog. You can do whatever you want with it.
