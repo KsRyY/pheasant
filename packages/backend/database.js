@@ -24,3 +24,5 @@ const database = level(path.join(os.homedir(), '.pheasant', 'db'), {
 const users = sublevel(database, 'users', {
 	valueEncoding: 'json'
 })
+
+module.export = { database, users }
