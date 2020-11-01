@@ -6,6 +6,10 @@
   "command": {
     "init": {
       "exact": true
-    }
+		},
+		"bootstrap": {
+			"npmClient": "yarn",
+			"useWorkspaces": true
+		}
   }
 }
