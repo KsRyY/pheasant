@@ -17,7 +17,8 @@ Pheasanet is an online message board application, but it is not limited to that.
 **Prerequisites**
 
 - A stable version of Node.js (other version may work, but I won't test against them)
-- Yarn (this project uses Yarn Workspace, so npm is not supported)
+- Lerna
+- Yarn (not forced, but lerna is configured to use Yarn and Yarn Workspaces in this project. npm could still work, but you may need to change the value of `command.bootstrap.npmClient` and `command.bootstrap.useWorkspaces` in `lerna.json`)
 - C++ Compiler Toolchain (although most of the native library the server uses provides precompiled binary, it is better to have the toolchain installed on your machine)
 
 First, pull the code down to your local machine:
@@ -30,7 +31,7 @@ Then, bootstrap it:
 
 ```bash
 cd pheasant
-yarn install
+lerna bootstrap
 yarn run configure
 ```
 
