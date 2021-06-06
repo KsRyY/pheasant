@@ -15,7 +15,7 @@
     "lerna": "3.22.1",
     "lint-staged": "10.5.3",
     "prettier": "2.0.4",
-    "xo": "0.30.0"
+    "xo": "0.40.2"
   },
   "lint-staged": {
     "*.[js,jsx]": [
