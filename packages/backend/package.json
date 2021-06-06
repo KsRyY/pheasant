@@ -8,7 +8,7 @@
   "license": "MIT",
   "dependencies": {
     "crypto-js": "4.0.0",
-    "crypto-random-string": "3.3.0",
+    "crypto-random-string": "3.3.1",
     "level": "6.0.1",
     "subleveldown": "5.0.1"
   },
